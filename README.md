@@ -14,5 +14,6 @@ Keep supporting us 😊
 
 Your beloved:-
 
-[EMCEE DEVS](https://t.me/Emcee_Devs)
-[SATYANAND](https://t.me/satyanandatripathi)
+[𝘿𝙀𝙎𝙄 𝙉𝙊𝘽𝙄𝙏𝘼](https://t.me/fakefriends01)
+[☆](https://t.me/Singing_cartoons_007)
+[𝙏𝙃𝙀 𝙍𝙄𝙕𝙊𝙀𝙇](https://t.me/TheRiZoeL)
