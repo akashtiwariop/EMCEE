@@ -90,8 +90,10 @@ buttons = [
     [
         InlineKeyboardButton(
             text="🔥Owner🔥", url="https://t.me/fakefriends01"),
+        
         InlineKeyboardButton(
             text="🔥CO-Owner🔥", url="https://t.me/TheRiZoeL").
+        
         InlineKeyboardButton(
             text="💥SUPPORT💥", url="https://t.me/Singing_cartoons_007"),
     ],
