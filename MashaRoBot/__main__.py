@@ -89,19 +89,15 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🔥Owner🔥", url="https://t.me/fakefriends01"),
-        
+            text="🔥𝕆𝕎ℕ𝔼ℝ🔥", url="https://t.me/fakefriends01"),
         InlineKeyboardButton(
-            text="🔥CO-Owner🔥", url="https://t.me/TheRiZoeL").
-        
-        InlineKeyboardButton(
-            text="💥SUPPORT💥", url="https://t.me/Singing_cartoons_007"),
+            text="🔥ℂ𝕆-𝕆𝕎ℕ𝔼ℝ🔥", url="https://t.me/TheRiZoeL").
     ],
     [  
-        InlineKeyboardButton(text="❤Thanks TO❤", url="https://t.me/bestiessingingsquad"),
-    ], 
-    
-]
+        InlinekeyboardButton(text="💥𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃 𝔾ℝ𝕆𝕌ℙ💥", url="https://t.me/Singing_cartoons_007").
+        
+        ].
+    [
 
 
 
